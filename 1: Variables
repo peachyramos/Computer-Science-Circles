@@ -1,0 +1,25 @@
+#Short Answer Exercise: x Marks the Spot
+x = 10
+x = x + x
+x = x - 5
+Your answer (enter a number): 15
+
+#Coding Exercise: Heads, Shoulders, Knees and Toes
+heads = 1* people
+shoulders = people * 2
+knees = people * 2
+toes = people * 10
+
+#Scramble Exercise: Speed Calculator
+totalDistance = uphillDistance + downhillDistance
+totalTime = uphillTime + downhillTime
+averageSpeed = totalDistance / totalTime
+print (averageSpeed)
+
+#Coding Exercise: Exchange Program
+xFirst = x
+x=y
+y=xFirst
+print('The value of x after swapping: {}'.format(x))
+print('The value of y after swapping: {}'.format(y))
+
