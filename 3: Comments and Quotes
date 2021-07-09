@@ -1,0 +1,17 @@
+#Debug this program so that it prints out the number of seconds in a week.
+# goal: print out the number of seconds in a week 
+secondsPerMinute = 60
+secondsPerHour = secondsPerMinute * 60 # todo: check this!
+secondsPerDay = secondsPerHour * 24
+daysPerWeek = 5
+daysPerWeek = daysPerWeek + 2 # weekends are disabled!?
+print(secondsPerDay * daysPerWeek)
+
+#Multiple Choice Exercise: Escape Characters
+Backslashes \ and single quotes ' and double quotes " and pound signs # are awesome!
+
+#Coding Exercise: The Great Escape
+#Write a program that prints the following:
+A double-quote's escaped using a backslash, e.g. \"
+print (' A double-quote\'s escaped using a backslash. e.g. \\\"')
+
