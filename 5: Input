@@ -1,0 +1,5 @@
+Coding Exercise: Echo
+line=input("")
+print(line)
+print(line)
+
